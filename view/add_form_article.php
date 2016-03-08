@@ -7,6 +7,6 @@
     <label>
         Текст:<br>
         <textarea name="article"  cols="30" rows="10"></textarea>
-    </label>
+    </label><br>
     <input type="submit" value="Добавить статью">
 </form>
